@@ -1,0 +1,25 @@
+.skills{
+    background-color: blue;
+    color:white;
+    border-radius: 10px;
+    margin-right: 10px;
+    width:250px;
+    padding-top:15px;
+    padding-left:15px;
+}
+h4{
+    font-family:'Roboto';
+    margin:15px;
+
+}
+body{
+    background-color:pink;
+}
+p{
+    font-size:17px;
+    font-weight:bolder;
+    text-decoration:underline;
+}
+ul{
+    font-weight:500;
+}

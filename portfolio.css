@@ -1,0 +1,27 @@
+h6{
+    font-family:'Brush Script MT';
+    font-size:30px;
+    padding-top:15px;
+    color:darkblue;
+    
+}
+ul li{
+    display:grid;
+    float:left;
+    margin:30px;
+    font-weight:bold;
+}
+.name{
+    font-size:30px;
+    color:white;
+    font-weight:500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image:linear-gradient(to right,red,green,yellow,blue);
+}
+.paragraph{
+    font-family:"Roboto";
+    font-size:25px;
+    font-weight:400;
+}
